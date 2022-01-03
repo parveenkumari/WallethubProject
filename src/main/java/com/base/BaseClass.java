@@ -19,8 +19,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class BaseClass {
 	
  static ThreadLocal<WebDriver> tdriver;
- 
- 
+
 	 
  public WebDriver init(String browser) {
 		
