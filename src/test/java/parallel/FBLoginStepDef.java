@@ -11,7 +11,6 @@ public class FBLoginStepDef {
 	
 	FBLoginPage flp = new FBLoginPage();
 	
-	
 	@Given("User navigate to facebook {string}")
 	public void user_navigate_to_facebook(String url) {
 	     flp.navigatetofacebook(url);
