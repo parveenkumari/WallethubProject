@@ -13,5 +13,5 @@ Feature: Facebook Feature
 
     Examples: 
       | username | password |
-      | kumariparveen41@gmail.com | Pramod12345|
+      | kumariparve456@gmail.com | NewLife1234|
    
